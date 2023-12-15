@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'Redven Biker (XLife.fr)'
-description 'Discord : https://discord.gg/C3aN2bBVbB'
+author 'Marvin'
+description ''
 version '1.0.0'
 
 loadscreen 'index.html'
